@@ -49,4 +49,5 @@ li, a {
 
 .headerNav li a:hover {
     color: #FE84FD;
+    font-size: 30px;
 }
