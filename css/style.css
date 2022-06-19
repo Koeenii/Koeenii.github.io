@@ -4,3 +4,24 @@
     font-family: 'Roboto';
     box-sizing: border-box;
 }
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+}
+
+#indexdesc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
