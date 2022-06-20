@@ -90,6 +90,13 @@ header {
     gap: 2rem;   
 }
 
+.article .articleContainer .articleBox .articleVideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .article .articleContainer .articleBox .articleImage{
     height: 25rem;
     overflow: hidden;
